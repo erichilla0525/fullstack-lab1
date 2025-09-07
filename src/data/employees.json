@@ -1,0 +1,93 @@
+{
+  "departments": [
+    {
+      "name": "Administration",
+      "employees": [
+        { "name": "Zoe Robbins" },
+        { "name": "Madeleine Madden" }
+      ]
+    },
+    {
+      "name": "Audit",
+      "employees": [
+        { "name": "Joana Sartowski" },
+        { "name": "Kate Fleetwood" }
+      ]
+    },
+    {
+      "name": "BankingOperations",
+      "employees": [
+        { "name": "Priyanka Bose" },
+        { "name": "Álvaro Morte" },
+        { "name": "Taylor Napier" }
+      ]
+    },
+    {
+      "name": "Communications",
+      "employees": [
+        { "name": "Gil Cardinal" },
+        { "name": "Richard J. Lewis" }
+      
+      ]
+    },
+    {
+      "name": "Corporate Services",
+      "employees": [
+        { "name": "Randy Bradshaw" },
+        { "name": "Tracey Cook" },
+        { "name": "Lubomir Mykytiuk" }
+      ]
+    },
+    {
+      "name": "Facilities",
+      "employees": [
+        { "name": "Dakota House" },
+        { "name": "Lori Lea Okemah" },
+        { "name": "Lori Lea Okemah" }
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "employees": [
+        { "name": "Selina Hanusa" },
+        { "name": "Buffy Gaudry" },
+        { "name": "Shaneen Ann Fox" },
+        { "name": "Allan Little" },
+        { "name": "Danny Rabbit" }
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "employees": [
+        { "name": "Jesse Ed Azure" },
+        { "name": "Stacy Da Silva" },
+        { "name": "Vladimír Valenta" },
+        { "name": "Samone Sayeses-Whitney" },
+        { "name": "Paul Coeur" }
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "employees": [
+        { "name": "Graham Greene" },
+        { "name": "Sandika Evergreen" },
+        { "name": "Jennifer Rodriguez (Software Developer)" }
+      ]
+    },
+    {
+      "name": "IT Technician",
+      "employees": [
+        { "name": "Aiyana Littlebear" },
+        { "name": "Inara Thunderbird" },
+        { "name": "Kaya Runningbrook" },
+        { "name": "Elara Firehawk" },
+        { "name": "Siona Moonflower" },
+        { "name": "Kaiyu Greywolf" },
+        { "name": "Ayawamat Nightwind" },
+        { "name": "Tala Braveheart" },
+        { "name": "Iniko Stonebear" },
+        { "name": "Onatah Redhawk" }
+      ]
+    }
+  ]
+}
